@@ -1,0 +1,7 @@
+Este arquivo é para testar squash commits
+
+A ideia é realizar vários commits localmente (sem realizar o push para o repo).
+
+Depois, pode-se juntar vários commits em apenas um antes de realizar o push.
+
+Isso mantém o repo mais organizado, sem os diversos commits inúteis de passos intermediários, por exemplo.
